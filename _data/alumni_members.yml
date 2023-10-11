@@ -1,9 +1,39 @@
-# - name: Dr. Cher Bass
-#   photo: cherbass.jpg
-#   info: Research Associate
-#   email: cher.bass(at)kcl.ac.uk
-#   number_educ: 2
-#   education1: PhD in Neurotechnology 
-#   education2: Predicting biomarkers of cognitive function from brain magnetic resonance imaging data
-#   education3: 
-#   education4:
+- name: Dr. Xuefang Wang
+  photo: LUCAS_Logo.png
+  info: Lecture in control engineering
+  email: 
+  number_educ: 2
+  education1: PhD in control theory and control engineering  
+  education2: University of Leicester
+  education3: 
+  education4:
+
+- name: Dr. Yang Liu
+  photo: LUCAS_Logo.png
+  info: Lecture
+  email: 
+  number_educ: 2
+  education1: PhD in control science and engineering  
+  education2: 
+  education3: 
+  education4:
+
+- name: Dr. Yunda Yan
+  photo: LUCAS_Logo.png
+  info: Lecture in robotics and AI
+  email: 
+  number_educ: 2
+  education1: PhD in control science and engineering  
+  education2: University College London
+  education3: 
+  education4:
+
+- name: Dr. Zhongguo Li
+  photo: LUCAS_Logo.png
+  info: Lecture in robotics, control, communication & AI
+  email: 
+  number_educ: 2
+  education1: PhD in electrical and electronic engineering  
+  education2: University of Manchester
+  education3: 
+  education4:
