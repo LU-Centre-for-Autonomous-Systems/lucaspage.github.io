@@ -18,6 +18,16 @@
   education3: 
   education4:
 
+- name: Dr. Callum Rhodes
+  photo: LUCAS_Logo.png
+  info: Research associate  
+  email: 
+  number_educ: 2
+  education1: PhD in automotive engineering  
+  education2: Imperial College London
+  education3: 
+  education4:
+
 - name: Dr. Yunda Yan
   photo: LUCAS_Logo.png
   info: Lecture in robotics and AI
@@ -37,3 +47,94 @@
   education2: University of Manchester
   education3: 
   education4:
+
+- name: Dr. Hyondong Oh
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: Ulsan National Institue of Science and Technology
+  education3: 
+  education4:
+
+- name: Dr. Sujit Baliyarasimhuni
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: Indian Institute of Science Education and Research Bhopal
+  education3: 
+  education4:
+
+- name: Dr. CRistiano Premebida
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: University of Coimbra
+  education3: 
+  education4:
+
+  - name: Dr. Jinya Su
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: University of Essex
+  education3: 
+  education4:
+
+  - name: Dr. Dewei Yi
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: University of Aberdeen
+  education3: 
+  education4:
+
+  - name: Dr. Tianxiang Zhang
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: University of Science and Technology Beijing
+  education3: 
+  education4:
+
+- name: Dr. Andy Pickering
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2:
+  education3: 
+  education4:
+
+- name: Dr. Bowen Lu
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: 
+  education3: 
+  education4:
+
+- name: Dr. Fanlin Meng
+  photo: LUCAS_Logo.png
+  info: Lecture in
+  email: 
+  number_educ: 2
+  education1: PhD in   
+  education2: 
+  education3: 
+  education4:
+
