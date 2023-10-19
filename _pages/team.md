@@ -74,7 +74,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 <br>
 
-## Research Software Engineers
+## Co-Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.software_eng %}
 

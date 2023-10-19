@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-For a complete publication list, please see [Prof Chen's](https://scholar.google.co.uk/citations?user=WXAAOb0AAAAJ&hl=en) Google Scholar.
+For a complete publication list, please see [Prof Chen's](https://scholar.google.com/citations?user=g2KS0kcAAAAJ&hl=en) Google Scholar.
 <br>
 <br>
 ## Highlights
