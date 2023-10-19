@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # baseurl: "/lucaspage.github.io" 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: "lucasresearch.co.uk"
+baseurl: "/lucasresearch.co.uk"
 # url: "http://lucasresearch.co.uk"
 url: "https://lu-centre-for-autonomous-systems.github.io" 
 keywords: "LUCAS, Loughborough University, Decision Making, Advanced Automation Control"
