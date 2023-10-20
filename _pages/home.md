@@ -68,7 +68,7 @@ We are **always** looking for passionate new students (PhD and MSc/MEng) and pos
 </div>
 
 <br>
-Please check out our [GitHub page](https://github.com/metrics-lab) and [Resources tab](resources) for software.
+Please check out our [GitHub page](https://github.com/LU-Centre-for-Autonomous-Systems) and [Resources tab](resources) for software.
 <br>
 <br>
 <figure class="fourth">
