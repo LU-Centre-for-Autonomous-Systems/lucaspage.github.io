@@ -8,13 +8,23 @@
   education3:
   education4:
 
+- name: Mal Fazliu
+  photo: LUCAS_Logo.png
+  info: Apr 2019
+  email: m.fazliu2@lboro.ac.uk
+  number_educ: 2
+  education1: BA, MSc, MRes in 
+  education2: DCEE
+  education3:
+  education4:
+
 - name: Tim Glover
   photo: LUCAS_Logo.png
   info: Apr 2019
   email: t.glover@lboro.ac.uk
   number_educ: 2
   education1: BA, MSc, MRes in 
-  education2: Geometric deep learning methods 
+  education2: DCEE
   education3:
   education4:
 
@@ -27,7 +37,17 @@
   education2: 
   education3: 
   education4:
-  
+
+- name: Siyuan Li
+  photo: LUCAS_Logo.png
+  info: 
+  email:  s.li8@lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
 - name: Yimeng Li
   photo: LUCAS_Logo.png
   info: 
@@ -76,14 +96,24 @@
   education1: 
   education2: 
   education3: 
-  education4: 
+  education4:
+
+  - name: Tianxiao Yang
+  photo: LUCAS_Logo.png
+  info: 
+  email:  t.yang@lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4:  
   
 - name: Yalei Yu
   photo: LUCAS_Logo.png
   info: Oct 2022
   email:  y.yu2@lboro.ac.uk
   number_educ: 2
-  education1: MSc in Traffic information engineering and control
+  education1:
   education2: Dual control for exploitation and exploration with applications on industrial robots.
   education3: 
   education4: 
