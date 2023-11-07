@@ -18,7 +18,7 @@ PhD programs are opening later this year, get in touch if you are interested in 
 
 [PhD Scholarships](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/china-scholarship-council/) if you think this applies to you get in touch 
 
-[Two Research Associate positions](https://vacancies.lboro.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=585387T83z&WVID=5913100PrZ&LANG=USA) in Goal-Oriented Control System, if you are interested please contact Prof Wen-Hua Chen, and the link of the description of the two posts will be updated soon.
+[Research Associate in Goal-Oriented Control System ](https://vacancies.lboro.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=585387T83z&WVID=5913100PrZ&LANG=USA), if you are interested please contact Prof Wen-Hua Chen, and please click the link for job details. 
 
 <br>
 <br>
