@@ -1,7 +1,7 @@
 ---
-title: "METRICS Lab - Resources"
+title: "LUCAS Lab - Resources"
 layout: piclay
-excerpt: "METRICS Lab -- Resources"
+excerpt: "LUCAS Lab -- Resources"
 permalink: /resources/
 ---
 ## Lectures

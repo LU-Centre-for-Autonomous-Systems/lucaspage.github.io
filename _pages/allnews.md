@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "METRICS Lab at King's College London."
+excerpt: "LUCAS Lab at Loughborough University."
 sitemap: false
 permalink: /allnews.html
 ---

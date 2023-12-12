@@ -1,7 +1,7 @@
 ---
-title: "METRICS Lab - newMSM"
+title: "LUCAS Lab - newMSM"
 layout: textlay
-excerpt: "METRICS Lab -- Resources"
+excerpt: "LUCAS Lab -- Resources"
 sitemap: false
 permalink: /newMSM/
 ---
