@@ -1,69 +1,69 @@
 - name: Dr. Matthew Coombes
   photo: Matt.jpeg
-  info: 
+  info: Senior Lecturer in Autonomous Vehicles
   email: m.j.coombes@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Aeronautical Engineering, Loughborough University
   education2: 
   education3: 
   education4: 
 
 - name: Dr. Jingjing Jiang
   photo: Jingjing.jpeg
-  info: 
+  info: Senior Lecturer in Intelligent Mobility and Autonomous Vehicles
   email: j.jiang2@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Control Engineering, Imperial College London
   education2: 
   education3: 
   education4:
 
 - name: Dr. James Knowles
   photo: James.jpeg
-  info: 
+  info: Senior Lecturer in Dynamics and Control
   email: J.A.C.Knowles@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Aeronautical Engineering, University of Bristol
   education2: 
   education3: 
   education4:
 
 - name: Dr. Chengyuan Liu
   photo: Chengyuan.jpeg
-  info: 
+  info: Lecturer in Safety-Critical Control
   email: c.liu10@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Control Engineering, Imperial College London
   education2: 
   education3: 
   education4: 
 
 - name: Prof. Cunjia Liu
   photo: Cunjia.jpg
-  info: 
+  info: Professor of Robotics and Autonomous Systems
   email: c.liu5@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Autonomous Vehicles,Loughborough University
   education2: 
   education3:
   education4:
 
 - name: Dr. Thomas Steffen
   photo: Thomas.jpeg
-  info: 
+  info: Reader in Control of Energy Systems
   email: t.steffen@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: Dr.-Ing. in Electrical Engineering, Ruhr-Universität Bochum
   education2: 
   education3: 
   education4:
   
 - name: Dr. Jun Yang
   photo: Jun.jpeg
-  info: 
+  info: Reader in Autonomous and Electric Vehicles, IEEE Fellow
   email:  j.yang3@lboro.ac.uk
   number_educ: 2
-  education1: PhD in 
+  education1: PhD in Control Engineering, Southeast University
   education2: 
   education3: 
   education4:   
