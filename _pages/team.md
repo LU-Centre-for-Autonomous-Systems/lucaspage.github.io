@@ -12,7 +12,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 ## Director
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.director %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -32,7 +32,8 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
   {% if member.number_educ == 2 %}
   <b>Title:</b> {{ member.education1 }}<br>
-  <b>Expertise:</b> {{ member.education2 }}
+  <b>Expertise:</b> {{ member.education2 }}<br>
+  <b>Links:</b> {{ member.education3 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}
@@ -76,7 +77,7 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
 
 ## Centre Academic Member
 {% assign number_printed = 0 %}
-{% for member in site.data.software_eng %}
+{% for member in site.data.academic_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -95,8 +96,9 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <b>Education:</b> {{ member.education1 }}<br>
-  <b>Research:</b> {{ member.education2 }}
+  <b>Title:</b> {{ member.education1 }}<br>
+  <b>Expertise:</b> {{ member.education2 }}<br>
+  <b>Links:</b> {{ member.education3 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}

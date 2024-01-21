@@ -1,0 +1,89 @@
+- name: Dr. Matthew Coombes
+  photo: Matt.jpeg
+  info: 
+  email: m.j.coombes@lboro.ac.uk
+  number_educ: 2
+  education1: Lecture in Autonomous Vehicles
+  education2: Autonomous vehicles which include unmanned aerial system forced landing, situational awareness, autonomous taxiing, mission planning optimization
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/" >Homepage</a>
+  education4: 
+
+- name: Dr. Jingjing Jiang
+  photo: Jingjing.jpeg
+  info: 
+  email: j.jiang2@lboro.ac.uk
+  number_educ: 2
+  education1: Senior Lecturer in Intelligent Mobility and Autonomous Vehicles
+  education2: Shared-Control (i.e. Human-machine interactions), development of advanced driver assistant system (ADAS), autonomous vehicles, traffic control
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/jingjing-jiang/" >Homepage</a>
+  education4:
+
+- name: Dr. James Knowles
+  photo: James.jpeg
+  info: 
+  email: J.A.C.Knowles@lboro.ac.uk
+  number_educ: 2
+  education1: Senior Lecturer in Dynamics and Control
+  education2: Applications of Numerical Continuation to investigations of engineering systems, mathematical modelling and analysis of dynamical systems, vehicle dynamics
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/james-knowles/" >Homepage</a>
+  education4:
+
+- name: Dr. Chengyuan Liu
+  photo: Chengyuan.jpeg
+  info: 
+  email: c.liu10@lboro.ac.uk
+  number_educ: 2
+  education1: Lecturer in Safety-Critical Control
+  education2: Safety-critical control and intelligent control for autonomous vehicles and robots
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/chengyuan-liu/" >Homepage</a>
+  education4: 
+
+- name: Prof. Cunjia Liu
+  photo: Cunjia.jpg
+  info: 
+  email: c.liu5@lboro.ac.uk
+  number_educ: 2
+  education1: Professor of Robotics and Autonomous Systems
+  education2: Novel perception and decision algorithms for robotic and autonomous system and their applications in security, industry and agriculture domains
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/cunjia-liu/" >Homepage</a>
+  education4:
+
+- name: Dr. Georgios Mavros
+  photo: George.jpeg
+  info: 
+  email:  g.mavros@lboro.ac.uk
+  number_educ: 2
+  education1: Reader in Intelligent Mobility and Vehicle Dynamics
+  education2: Thermo-mechanical and structural tyre modelling, tyre testing and model parameter identification, vehicle dynamics and control
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/georgios-mavros/" >Homepage</a>
+  education4: 
+  
+- name: Dr. Thomas Steffen
+  photo: Thomas.jpeg
+  info: 
+  email: t.steffen@lboro.ac.uk
+  number_educ: 2
+  education1: Reader in Control of Energy Systems
+  education2: Electrification and control of hybrid vehicles, and the integration with the connected/autonomous vehicle
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/thomas-steffen/" >Homepage</a>
+  education4:
+  
+- name: Dr. Jun Yang
+  photo: Jun.jpeg
+  info: 
+  email:  j.yang3@lboro.ac.uk
+  number_educ: 2
+  education1: Reader in Autonomous and Electric Vehicles
+  education2: Disturbance observer, motion control, visual servoing, nonlinear control, and autonomous systems
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/jun-yang/" >Homepage</a>
+  education4:
+
+- name: Dr. Yuanjian Zhang
+  photo: Yuanjian.jpeg
+  info: 
+  email:  y.y.zhang@lboro.ac.uk
+  number_educ: 2
+  education1: Lecturer in Intelligent Electric Vehicles
+  education2: New generation clean propulsion control and optimisation, digital modelling and simulation, intelligent transportation system and artificial intelligence (AI) in engineering practice.
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/yuanjian-zhang/" >Homepage</a>
+  education4:   
