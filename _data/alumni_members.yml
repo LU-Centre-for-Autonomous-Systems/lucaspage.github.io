@@ -25,7 +25,7 @@
   number_educ: 2
   education1: PhD in control science and engineering  
   education2: University of Huddersfield
-  education3: 
+  education3: <a href="https://pure.hud.ac.uk/en/persons/yang-liu" >Homepage</a>
   education4:
 
 - name: Dr. Callum Rhodes
@@ -45,8 +45,8 @@
   number_educ: 2
   education1: PhD in control science and engineering  
   education2: University College London
-  education3: 
-  education4:
+  education3: <a href="https://profiles.ucl.ac.uk/95124-yunda-yan" >Homepage</a>
+  education4: 
 
 - name: Dr. Zhongguo Li
   photo: LUCAS_Logo.png
@@ -55,7 +55,7 @@
   number_educ: 2
   education1: PhD in electrical and electronic engineering  
   education2: University of Manchester
-  education3: 
+  education3: <a href="https://research.manchester.ac.uk/en/persons/zhongguo-li" >Homepage</a>
   education4:
 
 - name: Dr. Hyondong Oh
@@ -65,8 +65,8 @@
   number_educ: 2
   education1: PhD in   
   education2: Ulsan National Institue of Science and Technology
-  education3: 
-  education4:
+  education3: <a href="https://asl.unist.ac.kr/people/instructor/" >Homepage</a>
+  education4: 
 
 - name: Dr. Sujit Baliyarasimhuni
   photo: LUCAS_Logo.png
