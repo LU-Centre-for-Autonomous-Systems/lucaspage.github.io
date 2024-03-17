@@ -290,6 +290,12 @@ We are **always** looking for new students (PhD and MSc/MEng) and post-docs to j
   <b>Education:</b> {{ member.education1 }}<br>
   <b>Current Institute:</b> {{ member.education2 }}
   {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
     
   </ul>
 </div>
