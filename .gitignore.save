@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+# ignore ALL files in ANY directory named temp
+slprj/
+
+# ignore ALL files in ANY directory names Datasets
+Datasets/
