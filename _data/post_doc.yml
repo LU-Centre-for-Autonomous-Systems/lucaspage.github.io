@@ -15,7 +15,7 @@
   number_educ: 2
   education1: PhD in 
   education2: 
-  education3: 
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/rohit-nanavati/" >Homepage</a>
   education4:
 
 - name: Dr. Pramod Pashupathy
@@ -25,7 +25,7 @@
   number_educ: 2
   education1: PhD in 
   education2: 
-  education3: 
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/pramod-pashupathy/" >Homepage</a>
   education4: 
   
 - name: Dr. Guoqiang Tan
@@ -35,7 +35,7 @@
   number_educ: 2
   education1: PhD in 
   education2: DCEE
-  education3:
+  education3: <a href="https://scholar.google.com/citations?user=AmO-3ncAAAAJ&hl=zh-CN" >Homepage</a>
   education4:
 
 - name: Dr. Shuoyuan Xu
@@ -45,7 +45,7 @@
   number_educ: 2
   education1: PhD in 
   education2: 
-  education3: 
+  education3: <a href="https://www.linkedin.com/in/shuoyuan-xu-289b1ba8/" >Homepage</a>
   education4:
 
 - name: Dr. Tao Yan
@@ -55,5 +55,5 @@
   number_educ: 2
   education1: PhD in 
   education2: 
-  education3: 
+  education3: <a href="https://scholar.google.com/citations?user=uQWoDssAAAAJ&hl=en" >Homepage</a>
   education4:
