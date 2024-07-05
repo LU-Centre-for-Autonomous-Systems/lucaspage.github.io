@@ -86,7 +86,27 @@
   education1: 
   education2: 
   education3: 
-  education4:  
+  education4: 
+
+- name: Rui Wang
+  photo: LUCAS_Logo.png
+  info: 
+  email: r.huang@lboro.ac.uk 
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+
+- name: Jiye Yang
+  photo: LUCAS_Logo.png
+  info: 
+  email: j.yang4@lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4: 
 
 - name: Tianxiao Yang
   photo: LUCAS_Logo.png
@@ -96,7 +116,17 @@
   education1: 
   education2: 
   education3: 
-  education4:  
+  education4:
+
+- name: Xiaonan Yang
+  photo: LUCAS_Logo.png
+  info: 
+  email: x.yang1-24@student.lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4:   
   
 - name: Yalei Yu
   photo: LUCAS_Logo.png
