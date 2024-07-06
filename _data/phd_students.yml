@@ -18,6 +18,16 @@
   education3:
   education4:
 
+- name: Rui Huang
+  photo: LUCAS_Logo.png
+  info: 
+  email: r.huang@lboro.ac.uk 
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+
 - name: Tim Glover
   photo: LUCAS_Logo.png
   info: Apr 2019
@@ -82,16 +92,6 @@
   photo: LUCAS_Logo.png
   info: 
   email:  s.tang@lboro.ac.uk
-  number_educ: 2
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-
-- name: Rui Wang
-  photo: LUCAS_Logo.png
-  info: 
-  email: r.huang@lboro.ac.uk 
   number_educ: 2
   education1: 
   education2: 
