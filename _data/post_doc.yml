@@ -1,3 +1,13 @@
+- name: Dr. Jie Han
+  photo: jiehan.jpeg
+  info: Research Associate
+  email: s.guo2@lboro.ac.uk
+  number_educ: 2
+  education1: PhD in mechanical engineering
+  education2: Vibration energy harvesting, piezoelectric and electromagnetic energy conversion, IoT sensing systems, digital twin of health monitoring
+  education3: <a href="https://scholar.google.com/citations?user=wMs60Z8AAAAJ&hl=en" >Homepage</a>
+  education4:
+
 - name: Dr. Shengkai Guo
   photo: Shengkai.jpeg
   info: Research Associate
@@ -6,16 +16,6 @@
   education1: PhD in mechanical engineering
   education2: Vibration energy harvesting, piezoelectric and electromagnetic energy conversion, IoT sensing systems, digital twin of health monitoring
   education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/shengkai-guo/" >Homepage</a>
-  education4:
-
-- name: Dr. Rohit Nanavati
-  photo: Rohit.jpg
-  info: Research Associate
-  email: r.nanavati@lboro.ac.uk
-  number_educ: 2
-  education1: PhD in Aerospace Engineering
-  education2: Intelligent path planning for autonomous vehicles, active inference, sensor management, guidance and control design for aerospace vehicles, nonlinear control design
-  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/rohit-nanavati/" >Homepage</a>
   education4:
 
 - name: Dr. Pramod Pashupathy
@@ -27,16 +27,16 @@
   education2: Optimal control, nonlinear control, guidance of aerospace vehicles, state and parameter estimation
   education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/pramod-pashupathy/" >Homepage</a>
   education4: 
-  
-- name: Dr. Guoqiang Tan
-  photo: Guoqiang.jpeg
+
+- name: Dr. Kai Wang
+  photo: kaiwang.jpeg
   info: Research Associate
-  email: g.tan@lboro.ac.uk
+  email: k.wang@lboro.ac.uk
   number_educ: 2
-  education1: PhD in control theory and control engineering
-  education2: Dual control, optimation, state estimation
-  education3: <a href="https://scholar.google.com/citations?user=AmO-3ncAAAAJ&hl=zh-CN" >Homepage</a>
-  education4:
+  education1: PhD in Aerospace Engineering
+  education2: Optimal control, model predictive control, optimization 
+  education3: <a href="https://scholar.google.com/citations?user=YxbQJVEAAAAJ&hl=en" >Homepage</a>
+  education4: 
 
 - name: Dr. Shuoyuan Xu
   photo: Shuoyuan.jpeg

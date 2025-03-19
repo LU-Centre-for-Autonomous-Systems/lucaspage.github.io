@@ -1,3 +1,43 @@
+- name: Dr. Guoqiang Tan
+  photo: Guoqiang.jpeg
+  info: Research Associate
+  email: g.tan@lboro.ac.uk
+  number_educ: 2
+  education1: PhD in control theory and control engineering
+  education2: Dual control, optimation, state estimation
+  education3: <a href="https://scholar.google.com/citations?user=AmO-3ncAAAAJ&hl=zh-CN" >Homepage</a>
+  education4:
+
+- name: Yimeng Li
+  photo: LUCAS_Logo.png
+  info: 
+  email:  y.li12@lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
+- name: Xiaonan Yang
+  photo: LUCAS_Logo.png
+  info: 
+  email: x.yang1-24@student.lboro.ac.uk
+  number_educ: 2
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
+- name: Dr. Rohit Nanavati
+  photo: Rohit.jpg
+  info: Research Associate
+  email: r.nanavati@lboro.ac.uk
+  number_educ: 2
+  education1: PhD in Aerospace Engineering
+  education2: Intelligent path planning for autonomous vehicles, active inference, sensor management, guidance and control design for aerospace vehicles, nonlinear control design
+  education3: <a href="https://www.lboro.ac.uk/departments/aae/staff/rohit-nanavati/" >Homepage</a>
+  education4:
+
 - name: Yuefei Zuo
   photo: LUCAS_Logo.png
   info: 
